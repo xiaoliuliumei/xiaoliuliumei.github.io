@@ -2,5 +2,8 @@ a:hover{color:green;}
 body,main{display: flex;}
 body{flex-direction: column;}
 main{flex: auto;}
-aside{flex: 1;}
-article{flex: 3;}
+aside{flex: 1;
+background: #87CE;}
+article{flex: 3;
+background: #87CEFA;}
+header{background: pink;}
